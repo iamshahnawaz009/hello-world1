@@ -1,2 +1,1 @@
-# hello-world1
-Test Purpose
+iFIX is a cloud based, fully automated, next generation Service Management solution for the 21st century enterprises. It has built-in industry contents and best practices, catering to all the service management requirements through an integrated approach. iFIX is developed based on the principles of Robotic Process Automation (RPA), Internet of Things (IoT) and Artificial Intelligence (AI). And it works on SaaS (Software as a Service) delivery model. iFIX has an Outcome Driven Pricing (ODP) Model which helps our customers to realize the benefits faster, better, sleeker and affordable. Try out now to get your early-bird benefits for free.
